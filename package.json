@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "bootstrap": "^5.2.0",
-    "react-bootstrap": "^2.5.0"
+    "faker": "^6.6.6",
+    "react-bootstrap": "^2.5.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0"
   }
 }
